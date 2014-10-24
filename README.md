@@ -9,10 +9,10 @@ a map for function:
 
 * doctorStruct
  * doctorUtils
- ** doctorNumber
- *** doctorPandigital
- *** doctorPrime
- *** doctorString
- *** doctorTriangle
+   * doctorNumber
+   * doctorPandigital
+   * doctorPrime
+   * doctorString
+   * doctorTriangle
  *doctorTest
   
