@@ -7,12 +7,12 @@ This is an utils collection that You, yeah You, can use to solve Euler and other
 For best view of the map, read raw
 a map for function:
 
-doctorStruct
-doctorUtils
-	doctorNumber
-	doctorPandigital
-	doctorPrime
-	doctorString
-	doctorTriangle
-  doctorTest
+*doctorStruct
+*doctorUtils
+**doctorNumber
+***doctorPandigital
+***doctorPrime
+***doctorString
+***doctorTriangle
+*doctorTest
   
