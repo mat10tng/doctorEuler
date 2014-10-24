@@ -12,6 +12,8 @@ void* to_set(void* nbr);
 void* to_number(void* array);
 
 void* nbr_permutations(void* nbr);
+void* nbr_combinations(void* nbr);
+
 int is_lychrel(void* nbr);
 
 
