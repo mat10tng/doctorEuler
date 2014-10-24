@@ -8,11 +8,11 @@ For best view of the map, read raw
 a map for function:
 
 * doctorStruct
- * doctorUtils
-   * doctorNumber
-      * doctorPandigital
-      * doctorPrime
-      * doctorString
-      * doctorTriangle
- * doctorTest
+* doctorUtils
+  * doctorNumber
+    * doctorPandigital
+    * doctorPrime
+    * doctorString
+    * doctorTriangle
+* doctorTest
   
