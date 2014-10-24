@@ -15,4 +15,5 @@ a map for function:
     * doctorString
     * doctorTriangle
 * doctorTest
+* doctorError
   
