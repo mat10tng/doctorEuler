@@ -14,5 +14,5 @@ a map for function:
       * doctorPrime
       * doctorString
       * doctorTriangle
- *doctorTest
+ * doctorTest
   
