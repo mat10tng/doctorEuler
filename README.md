@@ -4,10 +4,11 @@ doctorEuler
 An Utils Collection To Solve Euler Stuff in C
 This is an utils collection that You, yeah You, can use to solve Euler and other algorithms stuff in C. This project is for the collabrator to learn about how to programming in C in an effective way, and also to learn more about algoritms :). 
 
-For best view of the map, read raw
 a map for function:
 
 * doctorStruct
+  * stack
+  * queue
 * doctorUtils
   * doctorNumber
     * doctorPandigital
